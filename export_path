@@ -1,0 +1,1 @@
+export PATH=~/compilers/llvm-5.0.1/build/bin:$PATH
